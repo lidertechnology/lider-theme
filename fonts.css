@@ -1,0 +1,230 @@
+
+
+
+html {
+    --mdc-extended-fab-label-text-font: Roboto, sans-serif;
+    --mdc-extended-fab-label-text-size: 14px;
+    --mdc-extended-fab-label-text-tracking: 0.0892857143em;
+    --mdc-extended-fab-label-text-weight: 500
+}
+html {
+    --mdc-snackbar-supporting-text-font: Roboto, sans-serif;
+    --mdc-snackbar-supporting-text-line-height: 20px;
+    --mdc-snackbar-supporting-text-size: 14px;
+    --mdc-snackbar-supporting-text-weight: 400
+}
+html {
+    --mat-table-header-headline-font: Roboto, sans-serif;
+    --mat-table-header-headline-line-height: 22px;
+    --mat-table-header-headline-size: 14px;
+    --mat-table-header-headline-weight: 500;
+    --mat-table-header-headline-tracking: 0.0071428571em;
+    --mat-table-row-item-label-text-font: Roboto, sans-serif;
+    --mat-table-row-item-label-text-line-height: 20px;
+    --mat-table-row-item-label-text-size: 14px;
+    --mat-table-row-item-label-text-weight: 400;
+    --mat-table-row-item-label-text-tracking: 0.0178571429em;
+    --mat-table-footer-supporting-text-font: Roboto, sans-serif;
+    --mat-table-footer-supporting-text-line-height: 20px;
+    --mat-table-footer-supporting-text-size: 14px;
+    --mat-table-footer-supporting-text-weight: 400;
+    --mat-table-footer-supporting-text-tracking: 0.0178571429em
+}
+
+html {
+    --mat-badge-text-font: Roboto, sans-serif;
+    --mat-badge-line-height: 22px;
+    --mat-badge-text-size: 12px;
+    --mat-badge-text-weight: 600;
+    --mat-badge-small-size-text-size: 9px;
+    --mat-badge-small-size-line-height: 16px;
+    --mat-badge-large-size-text-size: 24px;
+    --mat-badge-large-size-line-height: 28px
+}
+
+html {
+    --mat-bottom-sheet-container-text-font: Roboto, sans-serif;
+    --mat-bottom-sheet-container-text-line-height: 20px;
+    --mat-bottom-sheet-container-text-size: 14px;
+    --mat-bottom-sheet-container-text-tracking: 0.0178571429em;
+    --mat-bottom-sheet-container-text-weight: 400
+}
+html {
+    --mat-legacy-button-toggle-label-text-font: Roboto, sans-serif;
+    --mat-legacy-button-toggle-label-text-line-height: 24px;
+    --mat-legacy-button-toggle-label-text-size: 16px;
+    --mat-legacy-button-toggle-label-text-tracking: 0.03125em;
+    --mat-legacy-button-toggle-label-text-weight: 400
+}
+
+html {
+    --mat-standard-button-toggle-label-text-font: Roboto, sans-serif;
+    --mat-standard-button-toggle-label-text-line-height: 24px;
+    --mat-standard-button-toggle-label-text-size: 16px;
+    --mat-standard-button-toggle-label-text-tracking: 0.03125em;
+    --mat-standard-button-toggle-label-text-weight: 400
+}
+
+html {
+    --mat-datepicker-calendar-text-font: Roboto, sans-serif;
+    --mat-datepicker-calendar-text-size: 13px;
+    --mat-datepicker-calendar-body-label-text-size: 14px;
+    --mat-datepicker-calendar-body-label-text-weight: 500;
+    --mat-datepicker-calendar-period-button-text-size: 14px;
+    --mat-datepicker-calendar-period-button-text-weight: 500;
+    --mat-datepicker-calendar-header-text-size: 11px;
+    --mat-datepicker-calendar-header-text-weight: 400
+}
+
+html {
+    --mat-expansion-header-text-font: Roboto, sans-serif;
+    --mat-expansion-header-text-size: 14px;
+    --mat-expansion-header-text-weight: 500;
+    --mat-expansion-header-text-line-height: inherit;
+    --mat-expansion-header-text-tracking: inherit;
+    --mat-expansion-container-text-font: Roboto, sans-serif;
+    --mat-expansion-container-text-line-height: 20px;
+    --mat-expansion-container-text-size: 14px;
+    --mat-expansion-container-text-tracking: 0.0178571429em;
+    --mat-expansion-container-text-weight: 400
+}
+
+
+html {
+    --mat-stepper-container-text-font: Roboto, sans-serif;
+    --mat-stepper-header-label-text-font: Roboto, sans-serif;
+    --mat-stepper-header-label-text-size: 14px;
+    --mat-stepper-header-label-text-weight: 400;
+    --mat-stepper-header-error-state-label-text-size: 16px;
+    --mat-stepper-header-selected-state-label-text-size: 16px;
+    --mat-stepper-header-selected-state-label-text-weight: 400
+}
+
+html {
+    --mat-toolbar-title-text-font: Roboto, sans-serif;
+    --mat-toolbar-title-text-line-height: 32px;
+    --mat-toolbar-title-text-size: 20px;
+    --mat-toolbar-title-text-tracking: 0.0125em;
+    --mat-toolbar-title-text-weight: 500
+}
+
+html {
+    --mat-tree-node-text-font: Roboto, sans-serif;
+    --mat-tree-node-text-size: 14px;
+    --mat-tree-node-text-weight: 400
+}
+
+.mat-h1,
+.mat-headline-5,
+.mat-typography .mat-h1,
+.mat-typography .mat-headline-5,
+.mat-typography h1 {
+    font: 400 24px/32px Roboto, sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 16px
+}
+
+.mat-h2,
+.mat-headline-6,
+.mat-typography .mat-h2,
+.mat-typography .mat-headline-6,
+.mat-typography h2 {
+    font: 500 20px/32px Roboto, sans-serif;
+    letter-spacing: .0125em;
+    margin: 0 0 16px
+}
+
+.mat-h3,
+.mat-subtitle-1,
+.mat-typography .mat-h3,
+.mat-typography .mat-subtitle-1,
+.mat-typography h3 {
+    font: 400 16px/28px Roboto, sans-serif;
+    letter-spacing: .009375em;
+    margin: 0 0 16px
+}
+
+.mat-h4,
+.mat-body-1,
+.mat-typography .mat-h4,
+.mat-typography .mat-body-1,
+.mat-typography h4 {
+    font: 400 16px/24px Roboto, sans-serif;
+    letter-spacing: .03125em;
+    margin: 0 0 16px
+}
+
+.mat-h5,
+.mat-typography .mat-h5,
+.mat-typography h5 {
+    font: 400 calc(14px*.83)/20px Roboto, sans-serif;
+    margin: 0 0 12px
+}
+
+.mat-h6,
+.mat-typography .mat-h6,
+.mat-typography h6 {
+    font: 400 calc(14px*.67)/20px Roboto, sans-serif;
+    margin: 0 0 12px
+}
+
+.mat-body-strong,
+.mat-subtitle-2,
+.mat-typography .mat-body-strong,
+.mat-typography .mat-subtitle-2 {
+    font: 500 14px/22px Roboto, sans-serif;
+    letter-spacing: .0071428571em
+}
+
+.mat-body,
+.mat-body-2,
+.mat-typography .mat-body,
+.mat-typography .mat-body-2,
+.mat-typography {
+    font: 400 14px/20px Roboto, sans-serif;
+    letter-spacing: .0178571429em
+}
+
+.mat-body p,
+.mat-body-2 p,
+.mat-typography .mat-body p,
+.mat-typography .mat-body-2 p,
+.mat-typography p {
+    margin: 0 0 12px
+}
+
+.mat-small,
+.mat-caption,
+.mat-typography .mat-small,
+.mat-typography .mat-caption {
+    font: 400 12px/20px Roboto, sans-serif;
+    letter-spacing: .0333333333em
+}
+
+.mat-headline-1,
+.mat-typography .mat-headline-1 {
+    font: 300 96px/96px Roboto, sans-serif;
+    letter-spacing: -0.015625em;
+    margin: 0 0 56px
+}
+
+.mat-headline-2,
+.mat-typography .mat-headline-2 {
+    font: 300 60px/60px Roboto, sans-serif;
+    letter-spacing: -.0083333333em;
+    margin: 0 0 64px
+}
+
+.mat-headline-3,
+.mat-typography .mat-headline-3 {
+    font: 400 48px/50px Roboto, sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 64px
+}
+
+.mat-headline-4,
+.mat-typography .mat-headline-4 {
+    font: 400 34px/40px Roboto, sans-serif;
+    letter-spacing: .0073529412em;
+    margin: 0 0 64px
+}
